@@ -1,0 +1,79 @@
+{
+  "descriptions": {
+    "aqua": {
+      "short": "Plumbing and water pump repairs in Al Barsha Third, Dubai. Covers booster pumps, pool pumps, leaks, drains, heaters, taps, and toilets.",
+      "medium": "Aqua Plumber Dubai Water Pump Services handles water pump installation and repair in Al Barsha Third, Dubai. Services include booster and pressure pumps, swimming pool pumps, irrigation pumps, pipe leaks, blocked drains, water heaters, taps, toilets, and low water pressure faults.",
+      "long": "Aqua Plumber Dubai Water Pump Services is a plumbing business based in Al Barsha Third, Al Barsha, Dubai. The company works on a range of water pump types including booster and pressure pumps, swimming pool pumps, irrigation pumps, and chilled-water pumps. General plumbing services cover pipe leaks and burst pipes, blocked drains, water heaters and boilers, taps and faucets, toilets and sanitary fittings, bathroom and kitchen plumbing, and water tank maintenance. The team also diagnoses and resolves low water pressure problems. Work is carried out across the Al Barsha area of Dubai."
+    }
+  },
+  "submitted": {
+    "yakima": {
+      "zearches": {
+        "date": "2026-09-26",
+        "url": "https://zearches.com/directory.php?slug=local-services&q=%28509%29+992-1165"
+      }
+    }
+  },
+  "pending": {
+    "azpros": {
+      "nextdoor": {
+        "issued_at": "2026-09-26T12:21:16.620445+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/1",
+        "status": "awaiting_submission"
+      },
+      "citysquares_com": {
+        "issued_at": "2026-09-29T12:29:40.880439+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/6",
+        "status": "awaiting_submission"
+      }
+    },
+    "bullhead": {
+      "nextdoor": {
+        "issued_at": "2026-09-26T12:21:17.438536+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/2",
+        "status": "awaiting_submission"
+      },
+      "citysquares_com": {
+        "issued_at": "2026-09-30T12:14:46.817696+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/7",
+        "status": "awaiting_submission"
+      }
+    },
+    "clovis": {
+      "nextdoor": {
+        "issued_at": "2026-09-28T13:25:37.360666+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/3",
+        "status": "awaiting_submission"
+      },
+      "citysquares_com": {
+        "issued_at": "2026-09-30T12:14:47.863223+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/8",
+        "status": "awaiting_submission"
+      }
+    },
+    "lawton": {
+      "nextdoor": {
+        "issued_at": "2026-09-28T13:25:38.622627+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/4",
+        "status": "awaiting_submission"
+      },
+      "citysquares_com": {
+        "issued_at": "2026-10-01T12:49:19.023282+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/9",
+        "status": "awaiting_submission"
+      }
+    },
+    "torrance": {
+      "nextdoor": {
+        "issued_at": "2026-09-29T12:29:39.595335+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/5",
+        "status": "awaiting_submission"
+      },
+      "citysquares_com": {
+        "issued_at": "2026-10-01T12:49:20.294801+00:00",
+        "issue_url": "https://github.com/clickfrauddetection/citations-agent/issues/10",
+        "status": "awaiting_submission"
+      }
+    }
+  }
+}

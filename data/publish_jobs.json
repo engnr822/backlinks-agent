@@ -1,0 +1,69 @@
+{
+  "lawton:zearches": {
+    "status": "needs_review",
+    "run_id": "36301077386",
+    "updated_at": "2026-09-27T06:46:55.308580+00:00",
+    "listing_url": "",
+    "reason": "navigation_or_state_error_no_retry"
+  },
+  "torrance:zearches": {
+    "status": "needs_review",
+    "run_id": "36301371645",
+    "updated_at": "2026-09-27T06:52:53.698976+00:00",
+    "listing_url": "",
+    "reason": "navigation_or_state_error_no_retry",
+    "error_type": "TimeoutError",
+    "diagnostics": {
+      "phase": "feedback",
+      "post_sent": true,
+      "page_host": "zearches.com",
+      "page_path": "/submit.php",
+      "ad_overlay": false
+    }
+  },
+  "bullhead:zearches": {
+    "status": "pending_public_verification",
+    "run_id": "36305134939",
+    "updated_at": "2026-09-27T08:06:36.754009+00:00",
+    "listing_url": "",
+    "response": "response_unrecognized",
+    "diagnostics": {
+      "phase": "feedback",
+      "post_sent": true,
+      "post_http_status": 406,
+      "page_host": "zearches.com",
+      "page_path": "/submit.php",
+      "ad_overlay": false
+    }
+  },
+  "clovis:zearches": {
+    "status": "pending_public_verification",
+    "run_id": "36434708097",
+    "updated_at": "2026-09-28T14:16:59.226492+00:00",
+    "listing_url": "",
+    "response": "response_unrecognized",
+    "diagnostics": {
+      "phase": "feedback",
+      "post_sent": true,
+      "post_http_status": 406,
+      "page_host": "zearches.com",
+      "page_path": "/submit.php",
+      "ad_overlay": false
+    }
+  },
+  "azpros:zearches": {
+    "status": "pending_public_verification",
+    "run_id": "36573240367",
+    "updated_at": "2026-09-29T13:11:34.482846+00:00",
+    "listing_url": "",
+    "response": "response_unrecognized",
+    "diagnostics": {
+      "phase": "feedback",
+      "post_sent": true,
+      "post_http_status": 406,
+      "page_host": "zearches.com",
+      "page_path": "/submit.php",
+      "ad_overlay": false
+    }
+  }
+}

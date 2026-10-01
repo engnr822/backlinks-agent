@@ -1,0 +1,553 @@
+{
+  "a_zbusinessfinder_com": {
+    "directory_id": "a_zbusinessfinder_com",
+    "checked_at": "2026-09-26",
+    "entry_url": "https://www.a-zbusinessfinder.com/listing.php",
+    "status": "awaiting_user_registration",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://www.a-zbusinessfinder.com/register.php",
+        "status": "needs_account",
+        "fields": [
+          {
+            "name": "business_country_id",
+            "tag": "select"
+          },
+          {
+            "name": "business_region",
+            "tag": "select"
+          },
+          {
+            "name": "business_city",
+            "tag": "select"
+          },
+          {
+            "name": "business_name",
+            "tag": "input"
+          },
+          {
+            "name": "business_category_id",
+            "tag": "select"
+          },
+          {
+            "name": "business_first_name",
+            "tag": "input"
+          },
+          {
+            "name": "business_last_name",
+            "tag": "input"
+          },
+          {
+            "name": "business_email_address",
+            "tag": "input"
+          },
+          {
+            "name": "confirm_business_email_address",
+            "tag": "input"
+          },
+          {
+            "name": "username",
+            "tag": "input"
+          },
+          {
+            "name": "password",
+            "tag": "input",
+            "type": "password"
+          },
+          {
+            "name": "confirm_password",
+            "tag": "input",
+            "type": "password"
+          }
+        ]
+      }
+    ],
+    "notes": "Live browser inspected. Free registration public fields prepared for Yakima; user is completing new credentials. No account creation or email verification observed yet. No street on this registration step; later listing requirements remain unknown."
+  },
+  "business_com": {
+    "directory_id": "business_com",
+    "checked_at": "2026-09-28T11:52:31.797788+00:00",
+    "entry_url": "https://business.com",
+    "status": "no_form_found",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://www.business.com/",
+        "fields": [],
+        "status": "no_form_found"
+      },
+      {
+        "url": "https://www.business.com/business-plus/?ckmid=103601&a=101704&c=114951&subid=2536090119.2211095354&s1=2536090119.2211095354&s4=&ocid=1026859&utm_source=BDC&utm_medium=persistbanner&utm_campaign=Business.com%20|%20The%20Trusted%20Resource%20for%20SMB%20Software%20&%20Services%20-%20Business.com&s7=BDC&s8=persistbanner&s9=Business.com%20|%20The%20Trusted%20Resource%20for%20SMB%20Software%20&%20Services%20-%20Business.com&s110=&s111=&cookiereset=1&",
+        "fields": [],
+        "status": "no_form_found"
+      },
+      {
+        "url": "https://www.business.com/business-plus/?ckmid=103601&a=101704&c=114951&subid=2536090126.2211095354&s1=2536090126.2211095354&s4=&ocid=1026859&utm_source=BDC&utm_medium=NavBdcPlus&utm_campaign=signup&s7=BDC&s8=NavBdcPlus&s9=signup&s110=&s111=&cookiereset=1&",
+        "fields": [],
+        "status": "no_form_found"
+      }
+    ]
+  },
+  "chamberofcommerce_com": {
+    "directory_id": "chamberofcommerce_com",
+    "checked_at": "2026-09-28T11:52:34.181040+00:00",
+    "entry_url": "https://chamberofcommerce.com",
+    "status": "form_found_needs_review",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://www.chamberofcommerce.com/",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "what",
+            "id": "search1",
+            "label": "Search",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "",
+            "id": "citystate1",
+            "label": "Search in City, State",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "what",
+            "id": "search4",
+            "label": "What are you looking for? ",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "where",
+            "id": "citystate4",
+            "label": "City, State ",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "companyName",
+            "id": "verifyNowCompanyName",
+            "label": "Enter your Company name....",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "button",
+            "name": "verifynow",
+            "id": "verifyNowButton",
+            "label": "",
+            "required": false
+          }
+        ],
+        "status": "form_found_needs_review"
+      }
+    ]
+  },
+  "citysquares_com": {
+    "directory_id": "citysquares_com",
+    "checked_at": "2026-09-28T11:52:35.126135+00:00",
+    "entry_url": "https://citysquares.com/add_business",
+    "status": "captcha_or_security_check",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://citysquares.com/add_business",
+        "fields": [],
+        "status": "captcha_or_security_check"
+      }
+    ]
+  },
+  "hotfrog_com": {
+    "directory_id": "hotfrog_com",
+    "checked_at": "2026-09-29T11:29:00.807310+00:00",
+    "entry_url": "https://hotfrog.com",
+    "status": "captcha_or_security_check",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://hotfrog.com/",
+        "fields": [],
+        "status": "captcha_or_security_check"
+      }
+    ]
+  },
+  "manta_com": {
+    "directory_id": "manta_com",
+    "checked_at": "2026-09-29T11:29:01.244609+00:00",
+    "entry_url": "https://manta.com",
+    "status": "captcha_or_security_check",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://www.manta.com/",
+        "fields": [],
+        "status": "captcha_or_security_check"
+      }
+    ]
+  },
+  "merchantcircle_com": {
+    "directory_id": "merchantcircle_com",
+    "checked_at": "2026-09-29T11:29:01.956039+00:00",
+    "entry_url": "https://merchantcircle.com",
+    "status": "captcha_or_security_check",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://www.merchantcircle.com/",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "q",
+            "id": "q",
+            "label": "Find",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "qn",
+            "id": "qn",
+            "label": "Near",
+            "required": false
+          }
+        ],
+        "status": "form_found_needs_review"
+      },
+      {
+        "url": "https://www.merchantcircle.com/signup#step=stepOne",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "radio",
+            "name": "customer_type",
+            "id": "",
+            "label": "  I'm a merchant",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "radio",
+            "name": "customer_type",
+            "id": "",
+            "label": "  I'm a user",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "user_firstname",
+            "id": "user_firstname",
+            "label": "First Name *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "user_lastname",
+            "id": "user_lastname",
+            "label": "Last Name *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "user_email",
+            "id": "user_email",
+            "label": "Email Address *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "password",
+            "name": "user_password",
+            "id": "user_password",
+            "label": "Password *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "password",
+            "name": "user_password_confirmation",
+            "id": "user_password_confirmation",
+            "label": "Confirm password *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "zip",
+            "id": "__zip1",
+            "label": "Zip Code *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "business_name",
+            "id": "business_name",
+            "label": "Business Name *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "business_phone",
+            "id": "business_phone",
+            "label": "Business Phone Number *",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "radio",
+            "name": "business_claimer_type",
+            "id": "",
+            "label": "  I'm claiming on behalf of a business",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "radio",
+            "name": "business_claimer_type",
+            "id": "",
+            "label": "  I'm claiming as the business owner",
+            "required": false
+          }
+        ],
+        "status": "captcha_or_security_check"
+      }
+    ]
+  },
+  "storeboard_com": {
+    "directory_id": "storeboard_com",
+    "checked_at": "2026-09-30T11:16:51.937628+00:00",
+    "entry_url": "https://storeboard.com",
+    "status": "captcha_or_security_check",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://www.storeboard.com/",
+        "fields": [],
+        "status": "captcha_or_security_check"
+      }
+    ]
+  },
+  "yellowbot_com": {
+    "directory_id": "yellowbot_com",
+    "checked_at": "2026-09-30T11:16:52.520094+00:00",
+    "entry_url": "https://yellowbot.com",
+    "status": "captcha_or_security_check",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://yellowbot.com/",
+        "fields": [],
+        "status": "captcha_or_security_check"
+      }
+    ]
+  },
+  "agreatertown_com": {
+    "directory_id": "agreatertown_com",
+    "checked_at": "2026-09-30T11:16:52.964780+00:00",
+    "entry_url": "https://agreatertown.com",
+    "status": "captcha_or_security_check",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://agreatertown.com/?__cf_chl_rt_tk=maGYXYGowFdqBDk9POvI1oOObqbH3zzg171y2BOJy_I-1790767013-1.0.1.1-pro2BZb_s3h3SnkzFr4a6znPAMeoC7odH60_V46PnJw",
+        "fields": [],
+        "status": "captcha_or_security_check"
+      }
+    ]
+  },
+  "announceamerica_com": {
+    "directory_id": "announceamerica_com",
+    "checked_at": "2026-10-01T11:44:30.604234+00:00",
+    "entry_url": "https://www.announceamerica.com/join",
+    "status": "form_found_needs_review",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://www.announceamerica.com/join",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "q",
+            "id": "",
+            "label": "Name or Keyword",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "location_value",
+            "id": "location_google_maps_header",
+            "label": "City or Post Code",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "submit",
+            "name": "",
+            "id": "",
+            "label": "",
+            "required": false
+          }
+        ],
+        "status": "form_found_needs_review"
+      },
+      {
+        "url": "https://www.announceamerica.com/join#",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "q",
+            "id": "",
+            "label": "Name or Keyword",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "location_value",
+            "id": "location_google_maps_header",
+            "label": "City or Post Code",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "submit",
+            "name": "",
+            "id": "",
+            "label": "",
+            "required": false
+          }
+        ],
+        "status": "form_found_needs_review"
+      },
+      {
+        "url": "https://www.announceamerica.com/",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "q",
+            "id": "",
+            "label": "Name or Keyword",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "location_value",
+            "id": "location_google_maps_header",
+            "label": "City or Post Code",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "submit",
+            "name": "",
+            "id": "",
+            "label": "",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "q",
+            "id": "keywordSuggest",
+            "label": "Name or Keyword",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "location_value",
+            "id": "location_google_maps_homepage",
+            "label": "City or Post Code",
+            "required": false
+          }
+        ],
+        "status": "form_found_needs_review"
+      }
+    ]
+  },
+  "b2bco_com": {
+    "directory_id": "b2bco_com",
+    "checked_at": "2026-10-01T11:44:33.226324+00:00",
+    "entry_url": "https://b2bco.com",
+    "status": "needs_account",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": [
+      {
+        "url": "https://b2bco.com/",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "",
+            "id": "text",
+            "label": "What are you looking for?",
+            "required": false
+          }
+        ],
+        "status": "form_found_needs_review"
+      },
+      {
+        "url": "https://www.b2bco.com/user/login/",
+        "fields": [
+          {
+            "tag": "input",
+            "type": "email",
+            "name": "username",
+            "id": "username",
+            "label": "Email address",
+            "required": false
+          },
+          {
+            "tag": "input",
+            "type": "password",
+            "name": "password",
+            "id": "password",
+            "label": "Password",
+            "required": false
+          }
+        ],
+        "status": "needs_account"
+      }
+    ]
+  },
+  "bizhwy_com": {
+    "directory_id": "bizhwy_com",
+    "checked_at": "2026-10-01T11:44:36.350731+00:00",
+    "entry_url": "https://bizhwy.com",
+    "status": "navigation_failed_needs_review",
+    "requires_street": "unknown",
+    "verify": "unknown",
+    "pages": []
+  }
+}

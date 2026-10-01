@@ -1,0 +1,23 @@
+{
+  "id": "zearches",
+  "enabled": true,
+  "requires_street": false,
+  "accepts_referrals": true,
+  "verify": "none",
+  "country": "*",
+  "audit_evidence": "2026-09-26: live browser form accepted Yakima's direct website with an explicit referral description; public name, phone, city and website verified. This is a web-directory mention, not a verified map/business profile. No street, email, login or phone verification fields. Terms acceptance is part of submit. https://zearches.com/listing-policy.php",
+  "allowed_hosts": ["zearches.com", "www.zearches.com"],
+  "submit_url": "https://zearches.com/",
+  "duplicate_check_url": "https://zearches.com/directory.php?slug=local-services",
+  "category_label": "Local Services & Shops",
+  "description_template": "{listing_name} connects customers in {location} with independent local electricians. Referral website; does not perform electrical work. Call {phone}.",
+  "description_length": {"min": 50, "max": 250},
+  "fields": [
+    {"source": "website", "selector": "#url"},
+    {"source": "listing_name", "selector": "#title"},
+    {"source": "directory_category", "selector": "#directory", "action": "select"},
+    {"source": "description", "selector": "#description"}
+  ],
+  "submit_selector": "#submit button[type=submit]",
+  "notes": "Yakima pilot only. On expired-session csrf_invalid, refresh normally; never alter security tokens. An ad can interrupt navigation: dismiss it and inspect outcome before retry. Search results are category URLs, not standalone permalink pages."
+}

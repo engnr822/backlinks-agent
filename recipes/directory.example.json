@@ -1,0 +1,14 @@
+{
+  "id": "replace-with-audited-directory",
+  "enabled": false,
+  "requires_street": "unknown",
+  "accepts_referrals": null,
+  "verify": "unknown",
+  "country": "United States",
+  "audit_evidence": "",
+  "allowed_hosts": ["example.org"],
+  "submit_url": "https://example.org/add",
+  "duplicate_check_url": "https://example.org/search",
+  "fields": [{"source": "listing_name", "selector": "REPLACE_WITH_OBSERVED_SELECTOR", "action": "fill"}],
+  "submit_selector": "REPLACE_WITH_OBSERVED_SELECTOR"
+}

@@ -1,0 +1,1018 @@
+[
+ {
+  "url": "http://www.tuugo.us/",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://us.enrollbusiness.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://www.referralkey.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [WinError 10060] A connection attempt failed because th"
+ },
+ {
+  "url": "http://www.communitywalk.com",
+  "status": 200,
+  "final": "http://www.communitywalk.com",
+  "title": "CommunityWalk",
+  "verdict": "NOT-A-DIR",
+  "why": "a map-making tool, not a business directory"
+ },
+ {
+  "url": "https://callupcontact.com",
+  "status": 200,
+  "final": "https://callupcontact.com",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://egypt-business.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "WRONG-GEO",
+  "why": "country-specific, not US"
+ },
+ {
+  "url": "https://globalcatalog.com",
+  "status": 404,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://number.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "NOT-A-DIR",
+  "why": "a publishing or mapping tool, not a business directory"
+ },
+ {
+  "url": "https://40billion.com",
+  "status": 200,
+  "final": "https://www.40billion.com/startupguides/",
+  "title": "How to Start a Business and Run a Company Successfully",
+  "verdict": "CHANGED-HANDS",
+  "why": "answers 200, but the site is now: How to Start a Business and Run a Company Successfully"
+ },
+ {
+  "url": "https://nicefirm.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [WinError 10060] A connection attempt failed because th"
+ },
+ {
+  "url": "https://citysquares.com",
+  "status": 200,
+  "final": "https://citysquares.com",
+  "title": "Local City Guide | CitySquares",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://bluewaterpages.com",
+  "status": 200,
+  "final": "https://www.bluewaterpages.com/",
+  "title": "Bluewaterpages - Respirer. Enfin.",
+  "verdict": "CHANGED-HANDS",
+  "why": "answers 200, but the site is now: Bluewaterpages - Respirer. Enfin."
+ },
+ {
+  "url": "https://ebusinesspages.com",
+  "status": 523,
+  "final": "",
+  "title": "",
+  "verdict": "DOWN",
+  "why": "server error at the time of checking"
+ },
+ {
+  "url": "https://gomylocal.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [WinError 10060] A connection attempt failed because th"
+ },
+ {
+  "url": "https://lekkoo.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [Errno 11002] getaddrinfo failed>"
+ },
+ {
+  "url": "https://hotfrog.com",
+  "status": 200,
+  "final": "https://www.hotfrog.com/",
+  "title": "Welcome to Hotfrog",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://manta.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://zeemaps.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "NOT-A-DIR",
+  "why": "a publishing or mapping tool, not a business directory"
+ },
+ {
+  "url": "https://linkcentre.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "NOT-A-DIR",
+  "why": "a publishing or mapping tool, not a business directory"
+ },
+ {
+  "url": "https://bizcommunity.com",
+  "status": 200,
+  "final": "https://www.bizcommunity.com/",
+  "title": "Bizcommunity | Daily business news, companies, jobs and events across 19 industries in Sou",
+  "verdict": "WRONG-GEO",
+  "why": "not a US directory: Bizcommunity | Daily business news, companies, jobs and even"
+ },
+ {
+  "url": "https://cybo.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://expressbusinessdirectory.com",
+  "status": 200,
+  "final": "https://www.expressbusinessdirectory.com/",
+  "title": "Home - Express Business Directory",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://teleadreson.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai"
+ },
+ {
+  "url": "https://bizbamboo.com",
+  "status": 200,
+  "final": "https://bizbamboo.com",
+  "title": "BizBamboo.com for sale | Spaceship.com",
+  "verdict": "PARKED",
+  "why": "registrar or for-sale holding page"
+ },
+ {
+  "url": "https://fonolive.com",
+  "status": 200,
+  "final": "https://fonolive.com",
+  "title": "Trade, import, export wholesale items. Find great deals across borders | Fonolive Marketpl",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://www.find-us-here.com/",
+  "status": 200,
+  "final": "https://www.find-us-here.com/",
+  "title": "Find a Business near you - Free Business Directory",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://b2bco.com",
+  "status": 200,
+  "final": "https://b2bco.com",
+  "title": "Global B2B Marketplace & Business Network - Marketplace and Business Network - B2BCO",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "http://www.a-zbusinessfinder.com/",
+  "status": 200,
+  "final": "https://www.a-zbusinessfinder.com/",
+  "title": "Find your community at A-ZBusinessFinder.com - the world's largest business and community ",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://www.zumvu.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai"
+ },
+ {
+  "url": "https://www.trepup.com",
+  "status": 200,
+  "final": "https://www.trepup.com",
+  "title": "Global ecommerce platform - Trepup",
+  "verdict": "CHANGED-HANDS",
+  "why": "answers 200, but the site is now: Global ecommerce platform - Trepup"
+ },
+ {
+  "url": "http://www.onestopb2b.com",
+  "status": 200,
+  "final": "http://www.onestopb2b.com",
+  "title": "Global Business Directory | Club BusinessAhead",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://yelloyello.com",
+  "status": 200,
+  "final": "https://yelloyello.com",
+  "title": "YelloYello - Guides, places, activities",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://salespider.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://www.n49.com",
+  "status": 200,
+  "final": "https://www.n49.com",
+  "title": "n49.com | Local Reviews Across Canada | n49.com",
+  "verdict": "WRONG-GEO",
+  "why": "not a US directory: n49.com | Local Reviews Across Canada | n49.com"
+ },
+ {
+  "url": "https://www.iglobal.co",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "http://www.brownbook.net",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://justpaste.it",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "NOT-A-DIR",
+  "why": "a publishing or mapping tool, not a business directory"
+ },
+ {
+  "url": "https://www.merchantcircle.com/",
+  "status": 200,
+  "final": "https://www.merchantcircle.com/",
+  "title": "Deals, Quotes, Coupons, Advice from Local Merchants - MerchantCircle.com",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://businessrater.com",
+  "status": 200,
+  "final": "https://businessrater.com",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://hub.biz",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://lotusguide.com",
+  "status": 200,
+  "final": "https://lotusguide.com",
+  "title": "Panglima79: Panduan Membaca Layar Slot dan Togel dengan Mudah",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://issuu.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "NOT-A-DIR",
+  "why": "a publishing or mapping tool, not a business directory"
+ },
+ {
+  "url": "http://www.listsomething.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai"
+ },
+ {
+  "url": "https://topdesignfirms.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://www.wand.com/",
+  "status": 200,
+  "final": "https://wand.com/",
+  "title": "Wand | Make Gaming Magical",
+  "verdict": "CHANGED-HANDS",
+  "why": "answers 200, but the site is now: Wand | Make Gaming Magical"
+ },
+ {
+  "url": "http://www.jsdirectory.com",
+  "status": 200,
+  "final": "http://ww16.jsdirectory.com/?sub1=20260926-1326-4575-b0f6-88a26e5132fb",
+  "title": "jsdirectory.com&nbsp;-&nbsp;This website is for sale!&nbsp;-&nbsp;jsdirectory Resources an",
+  "verdict": "PARKED",
+  "why": "registrar or for-sale holding page"
+ },
+ {
+  "url": "https://engnetglobal.com",
+  "status": 404,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "http://www.shopstratford.com",
+  "status": 200,
+  "final": "https://shopcity.com/",
+  "title": "ShopCity.com - Make a Big Impact In Your Community",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "http://www.tibogo.com/",
+  "status": 200,
+  "final": "http://www.tibogo.com/",
+  "title": "Local Business Directory - Find Local Businesses",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://www.business.com/",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://www.usemybusiness.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [WinError 10060] A connection attempt failed because th"
+ },
+ {
+  "url": "https://www.finditnowdirectory.com",
+  "status": 200,
+  "final": "https://finditnowdirectory.com/",
+  "title": "Find It Now Directory &#8211; Business Directory",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "http://www.lacartes.com",
+  "status": 200,
+  "final": "https://www.lacartes.com/",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "The read operation timed out"
+ },
+ {
+  "url": "http://where2go.com",
+  "status": 522,
+  "final": "",
+  "title": "",
+  "verdict": "DOWN",
+  "why": "server error at the time of checking"
+ },
+ {
+  "url": "https://www.houzz.in/",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "WRONG-GEO",
+  "why": "country-specific, not US"
+ },
+ {
+  "url": "http://www.wherezit.com",
+  "status": 200,
+  "final": "http://www.wherezit.com",
+  "title": "WherezIt.com",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://mycitybusiness.net",
+  "status": 200,
+  "final": "https://mycitybusiness.net",
+  "title": "",
+  "verdict": "PARKED",
+  "why": "registrar or for-sale holding page"
+ },
+ {
+  "url": "http://www.agreatertown.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "http://cityinsider.com",
+  "status": 301,
+  "final": "",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://www.buildzoom.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://finduslocal.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [WinError 10060] A connection attempt failed because th"
+ },
+ {
+  "url": "https://nextbizthing.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://mylocal.lamarledger.com",
+  "status": 200,
+  "final": "https://mylocal.lamarledger.com/AdEverywhere/SI/PR/LD/?s=lamarledger",
+  "title": "Lamar Ledger - Local Directory",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://thegospelgrid.directory",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://mylocal.broomfieldenterprise.com",
+  "status": 200,
+  "final": "https://mylocal.broomfieldenterprise.com/AdEverywhere/SI/PR/LD/?s=broomfield",
+  "title": "Broomfield Enterprise – Broomfield, Colorado News, Sports, Weather and Things to Do",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://eliteservicesnetwork.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai"
+ },
+ {
+  "url": "https://theomnimarket.com",
+  "status": 200,
+  "final": "https://www.theomnimarket.com/",
+  "title": "Supporting Business Development and Digital Connectivity",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://storeboard.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://www.beezeen.com",
+  "status": 200,
+  "final": "https://www.beezeen.com",
+  "title": "beezeen.com",
+  "verdict": "PARKED",
+  "why": "registrar or for-sale holding page"
+ },
+ {
+  "url": "https://quponing.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://professionalservices4u.com",
+  "status": 200,
+  "final": "https://www.professionalservices4u.com/",
+  "title": "Professional Services 4 U &amp; Businesse Directory - Find Professional Services 4 U &amp;",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://businessintelligencelist.com",
+  "status": 200,
+  "final": "https://businessintelligencelist.com",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://health-local.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://www.findabiz.com",
+  "status": 200,
+  "final": "https://www.findabiz.com",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://mylocal.canoncitydailyrecord.com",
+  "status": 200,
+  "final": "https://mylocal.canoncitydailyrecord.com/AdEverywhere/SI/PR/LD/?s=CCDR",
+  "title": "News – Canon City Daily Record",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://mylocal.fortmorgantimes.com",
+  "status": 200,
+  "final": "https://mylocal.fortmorgantimes.com/AdEverywhere/SI/PR/LD/?s=fmtimes",
+  "title": "Fort Morgan Times - Local Directory",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://announceamerica.com",
+  "status": 200,
+  "final": "https://www.announceamerica.com/",
+  "title": "American Businesses Directory - Find American Businesses - Announce America",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://www.bedandbreakfast-directory.co.uk/",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "WRONG-GEO",
+  "why": "country-specific, not US"
+ },
+ {
+  "url": "https://www.neustarlocaleze.biz",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://www.trustlink.org",
+  "status": 302,
+  "final": "",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://citydirect.info",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "http://linkbyme.com/",
+  "status": 200,
+  "final": "https://linkbyme.com/",
+  "title": "LinkByMe — Link Building Marketplace for Publishers &amp; Advertisers",
+  "verdict": "CHANGED-HANDS",
+  "why": "answers 200, but the site is now: LinkByMe — Link Building Marketplace for Publishers &amp; Ad"
+ },
+ {
+  "url": "https://www.selfcatering-directory.co.uk/",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "WRONG-GEO",
+  "why": "country-specific, not US"
+ },
+ {
+  "url": "https://www.golocal247.com/",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://www.cataloxy.com/",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "WRONG-GEO",
+  "why": "country-specific, not US"
+ },
+ {
+  "url": "https://bestplumbers.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://www.chamberofcommerce.com",
+  "status": 200,
+  "final": "https://www.chamberofcommerce.com",
+  "title": "Chamber of Commerce - The Online Business Community",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://www.localsearchlight.com",
+  "status": 200,
+  "final": "https://www.localsearchlight.com",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://www.showmelocal.com",
+  "status": 200,
+  "final": "https://www.showmelocal.com",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://hubbiz.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "http://www.thebilliarddirectory.com",
+  "status": 200,
+  "final": "https://www.thebilliarddirectory.com/",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "http://yobizniz.com",
+  "status": 200,
+  "final": "https://yobizniz.com/",
+  "title": "Business directory in USA, Top classified sites in USA, Free business listing sites USA",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://local-roofing.net",
+  "status": 200,
+  "final": "https://local-roofing.net",
+  "title": "Find Roofing Contractors - local-roofing.net",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "http://www.getmowed.com",
+  "status": 200,
+  "final": "http://www.getmowed.com/web/index.php?inln=69&siteid=285",
+  "title": "Find Lawn Care Providers & Information",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://www.localbusinesslisting.org",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://todaysdirectory.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [Errno 11002] getaddrinfo failed>"
+ },
+ {
+  "url": "http://www.freelistingusa.com",
+  "status": 200,
+  "final": "https://www.freelistingusa.com/",
+  "title": "Free local business listing site USA, online business directory USA - FreeListingUSA",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://yellowbot.com",
+  "status": 200,
+  "final": "https://www.yellowbot.com/",
+  "title": "Yellow Pages - YellowBot",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://thebluebook.com",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://www.photographernetwork.net/",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "http://premiumpages.net",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "url": "http://www.gbguides.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "timed out"
+ },
+ {
+  "url": "https://california-webbusiness.com",
+  "status": 200,
+  "final": "https://tr.california-webbusiness.com/",
+  "title": "California Web Business",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "http://greatautodealers.com/",
+  "status": 200,
+  "final": "http://greatautodealers.com/",
+  "title": "Great Auto Dealers - Find an Auto Dealer in Your Area",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://www.bizhwy.com",
+  "status": 200,
+  "final": "https://www.bizhwy.com",
+  "title": "Business Directory | Free Business Listings | Businesses For Sale",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://ablocal.com",
+  "status": 526,
+  "final": "",
+  "title": "",
+  "verdict": "DOWN",
+  "why": "server error at the time of checking"
+ },
+ {
+  "url": "https://yourlocaldragon.com",
+  "status": 200,
+  "final": "https://www.yourlocaldragon.com/",
+  "title": "Local Dragon | Local Magazine Advertising in North Wales",
+  "verdict": "WRONG-GEO",
+  "why": "not a US directory: Local Dragon | Local Magazine Advertising in North Wales"
+ },
+ {
+  "url": "https://mylocal.timescall.com",
+  "status": 200,
+  "final": "https://mylocal.timescall.com/AdEverywhere/SI/PR/LD/?s=timescall",
+  "title": "Longmont – Longmont Times-Call",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://yasabe.com",
+  "status": 200,
+  "final": "https://www.yasabe.com/",
+  "title": "Love Smarter, Not Harder",
+  "verdict": "CHANGED-HANDS",
+  "why": "answers 200, but the site is now: Love Smarter, Not Harder"
+ },
+ {
+  "url": "https://easybiz.biz",
+  "status": 200,
+  "final": "https://easybiz.biz",
+  "title": "EasyBiz Global | International Solutions",
+  "verdict": "OK",
+  "why": ""
+ },
+ {
+  "url": "https://local.botw.org",
+  "status": 403,
+  "final": "",
+  "title": "",
+  "verdict": "BLOCKED",
+  "why": "refused an automated fetch — usually a bot filter, not a dead site; check in a browser"
+ },
+ {
+  "url": "https://yellow-page-usa.com",
+  "status": 200,
+  "final": "http://ww17.yellow-page-usa.com/",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://www.madvix.com/",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [WinError 10060] A connection attempt failed because th"
+ },
+ {
+  "url": "https://Osatopages.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "url": "https://antiques-atlas.com",
+  "status": 200,
+  "final": "https://antiques-atlas.com",
+  "title": "Antiques For Sale, UK Fairs Diary, Antique Shop/Dealer Directory and Antique Furniture - A",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://www.yellowwiz.com",
+  "status": 200,
+  "final": "https://www.yellowwiz.com",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://www.tuugo.me",
+  "status": 301,
+  "final": "",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://www.allaboutcounseling.com/",
+  "status": 200,
+  "final": "https://www.webmd.com/mental-health/addiction/default.htm",
+  "title": "Addiction and Substance Abuse Health Center",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://citiservi.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "WRONG-GEO",
+  "why": "country-specific, not US"
+ },
+ {
+  "url": "https://misterwhat.com/",
+  "status": 200,
+  "final": "https://www.misterwhat.com/cloudflare.php?return=%2F",
+  "title": "",
+  "verdict": "CHECK-BY-HAND",
+  "why": "answered, but no title — could be a JS app or a stub"
+ },
+ {
+  "url": "https://holistictherapiesdirectory.com",
+  "status": 200,
+  "final": "https://holistictherapiesdirectory.com",
+  "title": "Holistic Practitioners and Holistic Therapies Global Network",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://macraesbluebook.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://therightfinancialadvisor.com",
+  "status": 200,
+  "final": "https://www.therightfinancialadvisor.com/",
+  "title": "GrandPashabet Casino 🎰 Grand Pashabet'e güvenli giriş ve büyük bonuslar!",
+  "verdict": "OFF-TRADE",
+  "why": "real site, different trade"
+ },
+ {
+  "url": "https://sandiegolocales.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "url": "https://mysheriff.net/",
+  "status": 200,
+  "final": "https://mysheriff.net/",
+  "title": "mysheriff.net",
+  "verdict": "PARKED",
+  "why": "registrar or for-sale holding page"
+ },
+ {
+  "url": "https://ntdirectory.com",
+  "status": null,
+  "final": "",
+  "title": "",
+  "verdict": "DEAD",
+  "why": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai"
+ },
+ {
+  "url": "https://www.citybyapp.com/",
+  "status": 200,
+  "final": "https://www.citybyapp.com/",
+  "title": "CityByApp&trade; | Local Information from Verified Sources",
+  "verdict": "OK",
+  "why": ""
+ }
+]

@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "directory": "zearches",
+  "terms_url": "https://zearches.com/listing-policy.php",
+  "approved_businesses": [
+    "lawton",
+    "torrance",
+    "bullhead",
+    "clovis",
+    "azpros",
+    "yakima"
+  ],
+  "approval_note": "User explicitly approved Zearches terms and automated publication of all five remaining businesses on 2026-09-27. One listing per run; Yakima already live and excluded by completion log.",
+  "diagnostic_revision": 2
+}
